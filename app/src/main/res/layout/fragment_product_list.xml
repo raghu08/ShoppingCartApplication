@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:text="Oh! oh no data is present to order.This might be due to no network."
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/productListRv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rv"/>
+    <RelativeLayout
+        android:id="@id/rv"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_blue_dark"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/proceed"
+            android:layout_width="match_parent"
+            android:text="Proceed to Checkout"
+            android:gravity="center"
+            android:padding="8dp"
+            android:layout_margin="5dp"
+            android:textSize="20sp"
+            android:textColor="@android:color/white"
+            android:layout_height="wrap_content" />
+   </RelativeLayout>
+
+</RelativeLayout>
+

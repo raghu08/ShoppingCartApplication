@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zooplus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_product_list">ProductList</string>
+    <string name="title_activity_product_cart_list">ProductCartListActivity</string>
+</resources>
