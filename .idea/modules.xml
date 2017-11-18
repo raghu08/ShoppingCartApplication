@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/raghavmalgi-zoopluscart-22154fc0b04e.iml" filepath="$PROJECT_DIR$/raghavmalgi-zoopluscart-22154fc0b04e.iml" />
+      <module fileurl="file://C:\Users\Raghavendra Malgi\Documents\df\app\app.iml" filepath="C:\Users\Raghavendra Malgi\Documents\df\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/df.iml" filepath="$PROJECT_DIR$/df.iml" />
+      <module fileurl="file://C:\Users\Raghavendra Malgi\Documents\df\raghavmalgi-zoopluscart-22154fc0b04e.iml" filepath="C:\Users\Raghavendra Malgi\Documents\df\raghavmalgi-zoopluscart-22154fc0b04e.iml" />
     </modules>
   </component>
 </project>
