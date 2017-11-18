@@ -1,9 +1,15 @@
 # ShoppingCartApplication
+
+This application is a simple demonstration of using Android Architecture components provided by google.Basically its a simple cart application where
+user has a list of products to choose from and add the products into the cart.
+
 I have given more emphasis on how to architect an application rather than a beautiful Userinterface(Which needs more time)
 
-I have used following components for the application 1.Retrofit for accessing webservice(A http library) 2.Android Architecture components like Livedata and viewmodel which were released recently by google
+I have used following components for the application
+ 1.Retrofit for accessing webservice(A http library)
+ 2.Android Architecture components like Livedata and viewmodel which were released recently by google
 
-3.Used Viewmodel pattern recommended by google
+3.Used Viewmodel pattern
 
 Architecture Of ZooplusCart Application
 
