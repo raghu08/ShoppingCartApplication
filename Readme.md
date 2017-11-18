@@ -4,8 +4,8 @@ This application is a simple demonstration of using Android Architecture compone
 user has a list of products to choose from and add the products into the cart.
 
 
-Improvements to be made to app in the next version:
-1.Use Dagger 2.0 
+Improvements to be made to the app in the next version:
+1.Use Dagger 2.0
 2.Use RxJava
 
 I have given more emphasis on how to architect an application rather than a beautiful Userinterface(Which needs more time)
